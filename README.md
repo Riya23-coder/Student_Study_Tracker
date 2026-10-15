@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Student Study Tracker 📚
 
 ## About the Project
@@ -53,3 +54,7 @@ Through this project, I am practising:
 Version 1 — Basic command-line study tracker.
 
 *This is a learning project that I am developing step by step.*
+=======
+# Student_Study_Tracker
+Student Study Tracker is a beginner-friendly Python project that helps students record and monitor their daily study activities. I built this project to improve my Python programming skills and develop practical projects.
+>>>>>>> eb2472daef5080b39280a0e5d088acb4e539a8fb
